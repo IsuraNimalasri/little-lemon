@@ -12,8 +12,8 @@ export default function RootLayout() {
       {/* SafeAreaView wraps the Stack content only */}
       <SafeAreaView style={styles.safeArea}>
       <CustomHeader />
-        <Stack screenOptions={{ headerShown: true }}>
-          <Stack.Screen name="index" options={{}} />
+        <Stack screenOptions={{ headerShown: false }}>
+          <Stack.Screen name="(tabs)" options={{}} />
         </Stack>
       </SafeAreaView>
     </View>
