@@ -6,15 +6,15 @@ export default function CustomHeader() {
   return (
     <View style={styles.headerContainer}>
       {/* Logo on the left */}
-      <Image source={require('@/assets/images/icon.png')} style={styles.logo} />
+      <Image source={require('@/assets/images/banner.png')} style={styles.logo} />
 
       {/* Notification and Profile Picture on the right */}
       <View style={styles.iconContainer}>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/icon.png')} style={styles.icon} />
+          <Image source={require('@/assets/images/react-logo.png')} style={styles.icon} />
         </TouchableOpacity>
         <TouchableOpacity>
-          <Image source={require('@/assets/images/icon.png')} style={styles.profilePicture} />
+          <Image source={require('@/assets/images/user.png')} style={styles.profilePicture} />
         </TouchableOpacity>
       </View>
     </View>
@@ -26,16 +26,16 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    paddingHorizontal: 15,
+    paddingHorizontal: 10,
     paddingVertical: 10,
-    backgroundColor: '#f5f5f5', // Change color as desired
+    backgroundColor: '#ffffff', // Change color as desired
     borderBottomWidth: 1,
     borderBottomColor: '#ddd',
   },
   logo: {
-    width: 100,
-    height: 30,
-    resizeMode: 'contain',
+    width: 120,
+    height: 70,
+    resizeMode: 'stretch',
   },
   iconContainer: {
     flexDirection: 'row',
