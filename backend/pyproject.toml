@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "litle-lemon-bk"
+version = "0.1.0"
+description = ""
+authors = ["codefox <isuranimalasiri@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+django = "^5.1.2"
+djangorestframework = "^3.15.2"
+markdown = "^3.7"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

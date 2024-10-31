@@ -13,11 +13,11 @@ Cells are the basic building blocks of all living organisms. They perform essent
    - Found in multicellular organisms, including plants, animals, and fungi.
    - Contain a nucleus and other complex organelles.
    - Include specialized types like animal cells and plant cells.
-   
-![](https://media.istockphoto.com/id/1405605956/vector/anatomy-of-animal-cell.jpg?s=612x612&w=0&k=20&c=cyVt6CT3Sr0R7MRvSe4C3wNYtYnynNguHlhZcF4bxmY=)
 
 ## Cell Structure
 Cells have several main components:
+
+![](https://media.istockphoto.com/id/1405605956/vector/anatomy-of-animal-cell.jpg?s=612x612&w=0&k=20&c=cyVt6CT3Sr0R7MRvSe4C3wNYtYnynNguHlhZcF4bxmY=)
 
 - **Cell Membrane**: A protective barrier that controls the entry and exit of substances.
 - **Cytoplasm**: A jelly-like substance that holds cell organelles.
